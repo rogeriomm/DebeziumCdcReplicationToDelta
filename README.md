@@ -1,0 +1,1 @@
+   * https://www.databricks.com/blog/2021/06/09/how-to-simplify-cdc-with-delta-lakes-change-data-feed.html: How to Simplify CDC With Delta Lake's Change Data Feed
